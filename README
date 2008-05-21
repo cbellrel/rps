@@ -1,0 +1,46 @@
+  GNU nano 1.2.4               New Buffer                        Modified  
+
+  GNU nano 1.2.4               New Buffer                       Modified  
+
+*Rock, Paper, Scissors README*
+  GNU nano 1.2.4              New Buffer                       Modified  
+
+*Rock, Paper, Scissors README*
+  GNU nano 1.2.4              New Buffer                      Modified  
+
+  GNU nano 1.2.4             New Buffer                      Modified  
+
+*Rock, Paper, Scissors README*
+Author: Caleb Bell
+Version 1.0
+05/07/2008
+
+*Introduction*
+        Rock, Paper, Scissors is a simple terminal-driven  GNU nano 1.2.4             New Buffer                      Modified  
+  GNU nano 1.2.4      New Buffer               Modified  
+
+*Rock, Paper, Scissors README*
+  GNU nano 1.2.4              New Buffer                       Modified  
+
+later reference.
+
+computer.rb- Instantiates an object of type Computer. The Computer    
+class is the adversary of Human. Based on random number generation
+the computer returns a choice with the corresponding selection.
+
+engine.rb- A module that implements the logic behind the whole game.
+the parameters choice1, choice2 are the choices made by the user and 
+the computer.
+
+game.rb- Instantiates an object of type Game. the Game class is where
+everything comes into play (no pun intended). Based on Engine Game     
+obtains its logic, and from there objects human, and computer are 
+introduced as participants. @method continue? is used to obtain if the 
+user wants to continue to play after a round is over. @method play is
+where the execution of the game happens.
+
+
+
+
+^G Get Help ^O WriteOut ^R Read File^Y Prev Page^K Cut Text ^C Cur Pos
+^X Exit     ^J Justify  ^W Where Is ^V Next Page^U UnCut Txt^T To Spell
